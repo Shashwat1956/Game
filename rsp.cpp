@@ -10,6 +10,9 @@ char getUserChoice()
     return toupper(choice);
 }
 
+let's see what we do when we compute to the main function but ya till then we have to go with the flow 
+yk that
+
 char getComputerChoice()
 {
     int randomNum = rand() % 3;
