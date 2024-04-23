@@ -12,6 +12,8 @@ char getUserChoice()
 
 let's see what we do when we compute to the main function but ya till then we have to go with the flow 
 yk that
+we have so many cases but lets see wht happens as you know i have a exam tommorrow but what can i do .. 
+    i also want to go home fast but let's see if( int i =0kjrbv
 
 char getComputerChoice()
 {
